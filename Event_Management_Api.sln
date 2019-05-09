@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Event_Management_Api", "Event_Management_Api\Event_Management_Api.csproj", "{FAB43A5B-AFC8-49CB-87A2-BB41766F363F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataModel", "DataModel\DataModel.csproj", "{988A4B06-E461-4ACD-A2CC-215EDB2295DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FAB43A5B-AFC8-49CB-87A2-BB41766F363F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAB43A5B-AFC8-49CB-87A2-BB41766F363F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAB43A5B-AFC8-49CB-87A2-BB41766F363F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAB43A5B-AFC8-49CB-87A2-BB41766F363F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{988A4B06-E461-4ACD-A2CC-215EDB2295DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{988A4B06-E461-4ACD-A2CC-215EDB2295DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{988A4B06-E461-4ACD-A2CC-215EDB2295DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{988A4B06-E461-4ACD-A2CC-215EDB2295DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6EE54054-8406-44DA-BED4-0D1F49D12D07}
+	EndGlobalSection
+EndGlobal

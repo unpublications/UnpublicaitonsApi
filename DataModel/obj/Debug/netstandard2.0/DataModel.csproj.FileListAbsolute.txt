@@ -1,0 +1,9 @@
+C:\Project\Event_Management\Event_Management_Api\DataModel\bin\Debug\netstandard2.0\DataModel.deps.json
+C:\Project\Event_Management\Event_Management_Api\DataModel\bin\Debug\netstandard2.0\DataModel.dll
+C:\Project\Event_Management\Event_Management_Api\DataModel\bin\Debug\netstandard2.0\DataModel.pdb
+C:\Project\Event_Management\Event_Management_Api\DataModel\obj\Debug\netstandard2.0\DataModel.csprojAssemblyReference.cache
+C:\Project\Event_Management\Event_Management_Api\DataModel\obj\Debug\netstandard2.0\DataModel.csproj.CoreCompileInputs.cache
+C:\Project\Event_Management\Event_Management_Api\DataModel\obj\Debug\netstandard2.0\DataModel.AssemblyInfoInputs.cache
+C:\Project\Event_Management\Event_Management_Api\DataModel\obj\Debug\netstandard2.0\DataModel.AssemblyInfo.cs
+C:\Project\Event_Management\Event_Management_Api\DataModel\obj\Debug\netstandard2.0\DataModel.dll
+C:\Project\Event_Management\Event_Management_Api\DataModel\obj\Debug\netstandard2.0\DataModel.pdb

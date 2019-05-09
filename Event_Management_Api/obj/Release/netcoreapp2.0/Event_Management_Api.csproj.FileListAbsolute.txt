@@ -1,0 +1,14 @@
+C:\Project\Event_Management\Event_Management_Api\Event_Management_Api\bin\Release\netcoreapp2.0\Event_Management_Api.deps.json
+C:\Project\Event_Management\Event_Management_Api\Event_Management_Api\bin\Release\netcoreapp2.0\Event_Management_Api.runtimeconfig.json
+C:\Project\Event_Management\Event_Management_Api\Event_Management_Api\bin\Release\netcoreapp2.0\Event_Management_Api.runtimeconfig.dev.json
+C:\Project\Event_Management\Event_Management_Api\Event_Management_Api\bin\Release\netcoreapp2.0\Event_Management_Api.dll
+C:\Project\Event_Management\Event_Management_Api\Event_Management_Api\bin\Release\netcoreapp2.0\Event_Management_Api.pdb
+C:\Project\Event_Management\Event_Management_Api\Event_Management_Api\bin\Release\netcoreapp2.0\DataModel.dll
+C:\Project\Event_Management\Event_Management_Api\Event_Management_Api\bin\Release\netcoreapp2.0\DataModel.pdb
+C:\Project\Event_Management\Event_Management_Api\Event_Management_Api\obj\Release\netcoreapp2.0\Event_Management_Api.csprojAssemblyReference.cache
+C:\Project\Event_Management\Event_Management_Api\Event_Management_Api\obj\Release\netcoreapp2.0\Event_Management_Api.csproj.CoreCompileInputs.cache
+C:\Project\Event_Management\Event_Management_Api\Event_Management_Api\obj\Release\netcoreapp2.0\Event_Management_Api.AssemblyInfoInputs.cache
+C:\Project\Event_Management\Event_Management_Api\Event_Management_Api\obj\Release\netcoreapp2.0\Event_Management_Api.AssemblyInfo.cs
+C:\Project\Event_Management\Event_Management_Api\Event_Management_Api\obj\Release\netcoreapp2.0\Event_Management_Api.csproj.CopyComplete
+C:\Project\Event_Management\Event_Management_Api\Event_Management_Api\obj\Release\netcoreapp2.0\Event_Management_Api.dll
+C:\Project\Event_Management\Event_Management_Api\Event_Management_Api\obj\Release\netcoreapp2.0\Event_Management_Api.pdb
